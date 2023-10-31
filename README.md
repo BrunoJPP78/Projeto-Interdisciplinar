@@ -1,9 +1,9 @@
 <h1>PROJETO INTERDISCIPLINAR - BACK END 📚</h1>
 <h2>Alunos: 🧑🏿‍💻</h2>
 <ul>
-  <li>Bruno José Pereira de Lima</li>
-  <li></li>
-  <li></li>
+  <li>Bruno José Pereira de Lima - RGM: 29073332</li>
+  <li>Jayara Pereira da Silva - RGM: 29102146</li>
+  <li>Pedro Henrique Soares Cruz - RGM: 29289955</li>
 </ul>
 
 <h2>API Desenvolvida em Django Rest Framework 🐍</h2>
